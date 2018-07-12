@@ -1,1 +1,2 @@
 # Tetris
+SMFL Library required

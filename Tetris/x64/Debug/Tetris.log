@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  Tetris.cpp
+d:\games\tetris\tetris\tetris\tetris.cpp(42): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+d:\games\tetris\tetris\tetris\tetris.cpp(54): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+d:\games\tetris\tetris\tetris\tetris.cpp(76): warning C4305: "=": obcięcie z "double" do "float"
+d:\games\tetris\tetris\tetris\tetris.cpp(130): warning C4305: "=": obcięcie z "double" do "float"
+d:\games\tetris\tetris\tetris\tetris.cpp(141): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+d:\games\tetris\tetris\tetris\tetris.cpp(149): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  Tetris.vcxproj -> D:\Games\Tetris\Tetris\x64\Debug\Tetris.exe
+  Tetris.vcxproj -> D:\Games\Tetris\Tetris\x64\Debug\Tetris.pdb (Partial PDB)
